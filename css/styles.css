@@ -64,4 +64,19 @@ p{
 }
 .icon:hover{
   color: black;
+  background-color:
+}
+
+/* Experience */
+#accordion{
+  padding: 7% 7%;
+  background-color: #09092a;
+}
+.accordion-button{
+  background-color: #09092a;
+  color: white;
+}
+.tab{
+  display: inline-block;
+  margin-left: 40px;
 }
